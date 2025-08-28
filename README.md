@@ -4,7 +4,7 @@
 
 ![Made by Aryan Giri](https://img.shields.io/badge/Made%20By-Aryan%20Giri-brightgreen)
 
-A **simple and powerful web-based tool** to convert **Rubber Ducky scripts** into **Arduino C code** compatible with Digispark or Arduino devices using the [DigiKeyboard library](https://www.pjrc.com/teensy/td_libs_DigiKeyboard.html).
+A **simple and powerful web-based tool** to convert **Rubber Ducky scripts** into **Arduino C code** compatible with Digispark or Arduino devices using the DigiKeyboard library
 
 ---
 
@@ -33,3 +33,22 @@ A **simple and powerful web-based tool** to convert **Rubber Ducky scripts** int
 6. Upload the `.ino` to a Digispark/Arduino using Arduino IDE.
 
 ---
+
+## Notes
+
+Make sure you have the DigiKeyboard library installed in Arduino IDE.
+
+Delays can be adjusted depending on the speed of the target system.
+
+The CTRL+V command simulates pasting from clipboard, so make sure content is copied beforehand.
+
+Always test in a safe environment.
+
+---
+
+Made By
+
+Aryan Giri – Aiming to make cybersecurity tools simple and accessible.
+Check out more projects on my GitHub.
+
+
